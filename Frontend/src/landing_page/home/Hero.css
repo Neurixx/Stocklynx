@@ -1,0 +1,76 @@
+.signUpBtn {
+  width: 200px !important;
+  margin: auto;
+  padding: 10px 30px !important;
+  font-size: 20px !important;
+}
+
+.homeHeroImg {
+  margin: auto;
+}
+
+.homeHeroP {
+  margin-top: 10px !important;
+  margin-bottom: 15px !important;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 1.8rem;
+  font-weight: 500 !important;
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+p {
+  font-size: 1rem;
+  opacity: 0.98;
+  line-height: 1.7rem;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.pricingImg {
+  height: 150px !important;
+  width: 150px !important;
+}
+
+.educationImg {
+  height: 317px;
+  width: 432px;
+}
+
+.pricingSpan {
+  font-size: 10px !important;
+}
+
+.ecosystemImg {
+  height: 500px;
+  width: 550px;
+}
+
+.pricingImages {
+  width: 250px;
+  height: 185px;
+}
+
+.pricingDiv h2,
+.priceHeroHeading h1 {
+  font-size: 28px;
+  opacity: 0.9;
+}
+
+.pricingDiv p {
+  font-size: 1rem;
+  opacity: 0.8;
+}
+
+.priceHeroHeading {
+  padding: 100px 0 !important;
+}

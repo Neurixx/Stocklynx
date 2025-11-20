@@ -1,0 +1,36 @@
+.aboutHeroHeading {
+  margin-bottom: 100px;
+  opacity: 0.95;
+  line-height: 2rem;
+}
+
+.productHeroHeading {
+  opacity: 0.95;
+  font-size: 28px;
+}
+
+.aboutContainer {
+  padding: 0 200px;
+}
+
+.aboutHeadingDiv,
+.productHeadingDiv {
+  border-bottom: 1px solid rgb(213, 210, 210);
+  margin-bottom: 80px;
+}
+
+.productHeadingDiv {
+  margin-bottom: 120px;
+}
+
+.founderImgDiv img {
+  height: 295px;
+  width: 295px;
+  border-radius: 50%;
+}
+.aboutTeamContainer {
+  padding: 10px 150px;
+  margin-bottom: 120px;
+}
+
+/* Brokerage */
